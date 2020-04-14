@@ -1,0 +1,2 @@
+model_checkpoint_path: "/export/hda3/mobilenet-oss/v3-large_224_1.0_float/ema/model-540000"
+all_model_checkpoint_paths: "/export/hda3/mobilenet-oss/v3-large_224_1.0_float/ema/model-540000"
