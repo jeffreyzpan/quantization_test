@@ -16,3 +16,10 @@ quantized `.tflite` models can be found named `model_quantized_fixed.tflite` in 
 the minimalistic model, which leads me to believe the issue might be with the advanced layers.
 
 Then, I evaluate the model performance using [Tensorflow's ImageNet accuracy tool](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/tools/accuracy/ilsvrc).
+
+## Results
+
+Accuracy output for standard MobileNetV3
+![](figures/full_results.png?raw=true)
+Accuracy output for minimalistic MobileNetV3
+![](figures/minimal_results.png?raw=true)
